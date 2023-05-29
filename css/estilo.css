@@ -3,6 +3,20 @@ html, body {
 	height: 100%;
 	overflow-x: hidden;/* Para esconder a barra de
 	 rolagem horizontal, visible para aparecer q é o padrão */
+	 margin: 0;
 }
 
-/*nada*/
+/* ****** topo ***** */
+header {
+	width: auto;
+	height: 10em;
+	background: #FFF8B9;
+}
+
+#logo {
+	text-align: center;/*centralizar*/
+}
+
+header img {
+	margin-top: 20px;
+}
