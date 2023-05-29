@@ -1,0 +1,6 @@
+/* ****** Layout ***** */
+html, body {
+	height: 100%;
+	overflow-x: hidden;/* Para esconder a barra de
+	 rolagem horizontal, visible para aparecer q é o padrão */
+}
